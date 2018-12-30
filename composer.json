@@ -1,5 +1,5 @@
 {
-  "name":"hschottm/contao-survey",
+  "name":"comolo/contao-survey",
   "description":"Contao bundle to create questionnaires and run online surveys",
   "keywords":["contao", "module", "extension", "survey", "bundle"],
   "type":"contao-bundle",
